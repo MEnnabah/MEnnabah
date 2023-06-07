@@ -7,7 +7,7 @@
             <p><b>Apple Development</b></p>
             <ul>
                 <li>
-                    <a href='https://github.com/MEnnabah/maven'>Maven</a> - iOS mobile app to track recurring payment, and potentially offer to cancel them.
+                    <a href='https://github.com/MEnnabah/maven'>Maven</a> - iOS mobile app to track recurring payment, and potentially offer to cancel them. Built on top a reverse engineered bank APIs, <a href='https://cocoapods.org/pods/DapiConnect'>Dapi SDK</a>.
                 </li>
                 <li>
                     <a href='https://github.com/MEnnabah/MathUI'>MathUI</a> - Math graphical tool for Swift UI.
