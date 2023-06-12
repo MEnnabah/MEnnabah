@@ -18,7 +18,7 @@
             </ul>
         </td>
         <td width='33%' valign='top'>
-            <p><b>OSS Contributions</b></p>
+            <p><b>OSS</b></p>
             <ul>
                 <li>
                     <a href='https://github.com/mennabah/SLIP'>SLIP</a> - Swift package for SLIP protocol <a href='https://datatracker.ietf.org/doc/html/rfc1055.html'>(RFC 1055)</a>.
